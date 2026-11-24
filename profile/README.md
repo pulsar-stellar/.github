@@ -48,7 +48,7 @@ npm install @pulsar-stellar/sdk @stellar/stellar-sdk
 - `@pulsar-stellar/sdk` 0.2.0 is on npm.
 - The indexer, the explorer, and the Rust decoder are built and tested. The decoder is not on crates.io yet.
 - The reference contract is deployed on Stellar testnet.
-- A public indexer runs on testnet at [https://pulsar-indexer.onrender.com](https://pulsar-indexer.onrender.com/health). It covers the reference contract only, has a shared read rate limit, and sleeps when idle on a free plan. Run your own for your contracts.
+- A public indexer runs on testnet at <https://pulsar-indexer.onrender.com>. It covers the reference contract only, has a shared read rate limit, and sleeps when idle on a free plan. Run your own for your contracts.
 - The explorer is not hosted yet. Today you run it yourself.
 
 ## Contributing
